@@ -1,0 +1,7 @@
+name: mcholic
+version: '1.0-SNAPSHOT'
+main: mcholic.tp.mcholic.xyz.Tp.mcholic
+api-version: 1.18
+soft-depend: [Essentials]
+commands:
+  길드:
